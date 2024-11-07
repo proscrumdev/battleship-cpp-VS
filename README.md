@@ -1,4 +1,4 @@
-[![Build status](https://psdstewards.visualstudio.com/PSD/_apis/build/status/proscrumdev.battleship-cpp-CI)](https://psdstewards.visualstudio.com/PSD/_build/latest?definitionId=18)
+![Build status](https://dev.azure.com/aps-sd-stewards/APS-SD/_apis/build/status/proscrumdev.battleship-cpp-VS-CI)
 
 # Battleship C++
 A simple game of Battleship, written in C++ with Microsoft Visual Studio 2022.
