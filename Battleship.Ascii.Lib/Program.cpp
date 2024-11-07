@@ -28,7 +28,7 @@ namespace Battleship
 
     list<Ship> Program::myFleet;
     list<Ship> Program::enemyFleet;
-    
+
     void Program::Main()
     {
       cout << R"(                                     |__                                       )" << endl;
